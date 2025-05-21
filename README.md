@@ -47,7 +47,7 @@ The primary goal of the **E-Booking Portal** is to deliver a clear, efficient, a
 ## Installation:
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/your-username/e-booking-portal.git
+    git clone https://github.com/satvikaj/e-library-books-booking.git
     ```
 
 2. **Install dependencies**:
@@ -75,6 +75,7 @@ The primary goal of the **E-Booking Portal** is to deliver a clear, efficient, a
     ```bash
     python library.py
     ```
+
 
 ## Conclusion:
 The **E-Booking Portal** embodies effective UI design principles and focuses on delivering a user-centric, intuitive experience. The system's simplicity, clear presentation, and responsiveness provide an easy and efficient way for users to manage their library bookings. As a foundational project, the E-Booking Portal offers an excellent base for exploring more advanced Python and GUI development techniques in future projects.
